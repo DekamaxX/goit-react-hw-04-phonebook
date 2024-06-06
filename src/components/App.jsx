@@ -3,7 +3,7 @@ import { nanoid } from 'nanoid';
 import { ContactForm } from './ContactForm/ContactForm';
 import { SearchBar } from './SearchBar/SearchBar';
 import ContactsList from './ContactList/ContactsList';
-import css from './App.module.css';git 
+import css from './App.module.css';
 
 const INITIAL_STATE = {
   contacts: [],
